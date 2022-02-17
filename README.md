@@ -3,6 +3,7 @@
 ## To do task
 * roughness 측정코드 완성
 * sharpness 측정코드 완성
+
 위 sound quality prameter는 Zwicker parameter라고 불리는 표준에 의해 측정되었고
 직접 짠 코드로 측정했을 때 기존에 있는 데이터(전문 프로그램-아르테미스로 측정)와 모양이 많이 달라서 개선해야하는 상황입니다.
 
